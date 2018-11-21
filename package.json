@@ -1,0 +1,31 @@
+{
+  "name": "hyperwrapped-react",
+  "version": "1.0.3",
+  "description": "(React + hyperwrap + ts + parcel) seed project",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "test",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "react",
+    "hyperapp",
+    "hyperwrap",
+    "functional",
+    "doug",
+    "douglas"
+  ],
+  "author": "attack-monkey",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.7.6",
+    "@types/react-dom": "^16.0.9",
+    "hyperwrap": "^1.0.1",
+    "iu-ts": "^1.0.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
