@@ -1,6 +1,6 @@
 # Hyperwrapped React
 
-A hyperwrapp seed project, providing a simple functional approach to react.
+A hyperwrap seed project, providing a simple functional approach to react.
 
 ## install
 
